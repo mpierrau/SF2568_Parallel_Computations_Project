@@ -1,0 +1,78 @@
+mpirun -n 1 ./a.out 131072
+mpirun -n 1 ./a.out 262144
+mpirun -n 1 ./a.out 524288
+mpirun -n 1 ./a.out 1048576
+mpirun -n 1 ./a.out 2097152
+mpirun -n 1 ./a.out 4194304
+mpirun -n 1 ./a.out 8388608
+mpirun -n 1 ./a.out 16777216
+mpirun -n 1 ./a.out 33554432
+mpirun -n 1 ./a.out 67108864
+
+mpirun -n 2 ./a.out 131072
+mpirun -n 2 ./a.out 262144
+mpirun -n 2 ./a.out 524288
+mpirun -n 2 ./a.out 1048576
+mpirun -n 2 ./a.out 2097152
+mpirun -n 2 ./a.out 4194304
+mpirun -n 2 ./a.out 8388608
+mpirun -n 2 ./a.out 16777216
+mpirun -n 2 ./a.out 33554432
+mpirun -n 2 ./a.out 67108864
+
+
+mpirun -n 4 ./a.out 131072
+mpirun -n 4 ./a.out 262144
+mpirun -n 4 ./a.out 524288
+mpirun -n 4 ./a.out 1048576
+mpirun -n 4 ./a.out 2097152
+mpirun -n 4 ./a.out 4194304
+mpirun -n 4 ./a.out 8388608
+mpirun -n 4 ./a.out 16777216
+mpirun -n 4 ./a.out 33554432
+mpirun -n 4 ./a.out 67108864
+
+
+mpirun -n 8 ./a.out 131072
+mpirun -n 8 ./a.out 262144
+mpirun -n 8 ./a.out 524288
+mpirun -n 8 ./a.out 1048576
+mpirun -n 8 ./a.out 2097152
+mpirun -n 8 ./a.out 4194304
+mpirun -n 8 ./a.out 8388608
+mpirun -n 8 ./a.out 16777216
+mpirun -n 8 ./a.out 33554432
+mpirun -n 8 ./a.out 67108864
+
+mpirun -n 16 ./a.out 131072
+mpirun -n 16 ./a.out 262144
+mpirun -n 16 ./a.out 524288
+mpirun -n 16 ./a.out 1048576
+mpirun -n 16 ./a.out 2097152
+mpirun -n 16 ./a.out 4194304
+mpirun -n 16 ./a.out 8388608
+mpirun -n 16 ./a.out 16777216
+mpirun -n 16 ./a.out 33554432
+mpirun -n 16 ./a.out 67108864
+
+mpirun -n 32 ./a.out 131072
+mpirun -n 32 ./a.out 262144
+mpirun -n 32 ./a.out 524288
+mpirun -n 32 ./a.out 1048576
+mpirun -n 32 ./a.out 2097152
+mpirun -n 32 ./a.out 4194304
+mpirun -n 32 ./a.out 8388608
+mpirun -n 32 ./a.out 16777216
+mpirun -n 32 ./a.out 33554432
+
+
+mpirun -n 64 ./a.out 131072
+mpirun -n 64 ./a.out 262144
+mpirun -n 64 ./a.out 524288
+mpirun -n 64 ./a.out 1048576
+mpirun -n 64 ./a.out 2097152
+mpirun -n 64 ./a.out 4194304
+mpirun -n 64 ./a.out 8388608
+mpirun -n 64 ./a.out 16777216
+mpirun -n 64 ./a.out 33554432
+mpirun -n 32 ./a.out 67108864
